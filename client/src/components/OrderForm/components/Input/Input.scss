@@ -1,0 +1,16 @@
+.form-item {
+	&.has-validation {
+		margin-bottom: 20px;
+
+		.error-message {
+			padding: 5px 0 0 15px;
+			margin: 0;
+			text-align: left;
+			color: #fb7063;
+			font-size: 15px;
+			border-bottom: none;
+			font-weight: normal;
+			font-family: "Alegreya Sans SC", sans-serif;
+		}
+	}
+}
